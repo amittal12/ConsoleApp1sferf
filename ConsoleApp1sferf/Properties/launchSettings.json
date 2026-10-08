@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleApp1sferf": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
